@@ -2,7 +2,7 @@
 			 Gamification in Classes 
 
 
-	We all need some motivation once in a while, especially when it comes to handing in all the assessments and essays on time. Gamification is when game mechanics and game designs are applied in non-game contexts to engage and motivate people to achieve their goals. 
+We all need some motivation once in a while, especially when it comes to handing in all the assessments and essays on time. Gamification is when game mechanics and game designs are applied in non-game contexts to engage and motivate people to achieve their goals. 
   I believe that gamifying classes would lead to more motivation and better achievements throughout the school year. Gamification in classes prompts the engagement and the participation of the students, which leads to better understanding of the subject and to a healthy competition between the students. 
 	
 
