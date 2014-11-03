@@ -1,5 +1,5 @@
-	Gamification in Classes =============
-=============
+=============	Gamification in Classes 
+
 
 
 We all need some motivation once in a while, especially when it comes to handing in all the assessments and essays on time. Gamification is when game mechanics and game designs are applied in non-game contexts to engage and motivate people to achieve their goals. 
